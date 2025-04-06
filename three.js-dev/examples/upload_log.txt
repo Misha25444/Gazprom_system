@@ -1,0 +1,31 @@
+Папка загрузки: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542
+Оригинальный путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/noon_grass_4k.hdr
+Сжатый путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/compressed_noon_grass_4k.hdr
+Файл успешно загружен: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/noon_grass_4k.hdr
+Изображение будет сохранено как JPG: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/compressed_noon_grass_4k.jpg
+Сжатое изображение сохранено: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/compressed_noon_grass_4k.jpg
+Размер после сжатия: 1.18 MB
+Файл записан в БД: three.js-dev/examples/projects/1542/noon_grass_4k.hdr, превью: three.js-dev/examples/projects/1542/compressed_noon_grass_4k.jpg
+Папка загрузки: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542
+Оригинальный путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/grefer.jpg
+Сжатый путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/compressed_grefer.jpg
+Файл успешно загружен: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/grefer.jpg
+Сжатое изображение сохранено: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1542/compressed_grefer.jpg
+Размер после сжатия: 0.02 MB
+Файл записан в БД: three.js-dev/examples/projects/1542/grefer.jpg, превью: three.js-dev/examples/projects/1542/compressed_grefer.jpg
+Папка загрузки: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545
+Оригинальный путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/noon_grass_4k.hdr
+Сжатый путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_noon_grass_4k.hdr
+Файл успешно загружен: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/noon_grass_4k.hdr
+Изображение будет сохранено как JPG: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_noon_grass_4k.jpg
+Сжатое изображение сохранено: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_noon_grass_4k.jpg
+Размер после сжатия: 1.18 MB
+Файл записан в БД: three.js-dev/examples/projects/1545/noon_grass_4k.hdr, превью: three.js-dev/examples/projects/1545/compressed_noon_grass_4k.jpg
+Папка загрузки: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545
+Оригинальный путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/stierberg_sunrise_4k.exr
+Сжатый путь: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_stierberg_sunrise_4k.exr
+Файл успешно загружен: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/stierberg_sunrise_4k.exr
+Изображение будет сохранено как JPG: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_stierberg_sunrise_4k.jpg
+Сжатое изображение сохранено: C:/OSPanel/domains/main8/three.js-dev//examples/projects/1545/compressed_stierberg_sunrise_4k.jpg
+Размер после сжатия: 1.01 MB
+Файл записан в БД: three.js-dev/examples/projects/1545/stierberg_sunrise_4k.exr, превью: three.js-dev/examples/projects/1545/compressed_stierberg_sunrise_4k.jpg

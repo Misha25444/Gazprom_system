@@ -1,0 +1,189 @@
+svg {
+margin-bottom: 43px;
+height: 300px;
+overflow: visible;
+stroke: #006fcb;
+opacity: 0;
+transform: translateY(50px);
+animation: fadeInUp 1s ease-out forwards;
+}
+
+path {
+stroke: #006fcb;
+fill: none; 
+stroke-width: 2;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 1000;
+stroke-dashoffset: 1000;
+animation: draw 2s ease forwards, fillColor 0s 4s forwards;
+}
+
+@keyframes fadeInUp {
+from {
+stroke: #006fcb;
+opacity: 0;
+transform: translateY(50px);
+}
+to {
+stroke: #006fcb;
+opacity: 1;
+transform: translateY(0);
+}
+}
+
+@keyframes draw {
+to {
+stroke: #006fcb;
+stroke-dashoffset: 0;
+}
+}
+
+@keyframes fillColor {
+to {
+stroke: #006fcb;
+fill: #3498db;
+}
+}
+.d-flex {
+display: -ms-flexbox !important;
+display: flex !important;
+flex-direction: column;
+}
+.csr{
+top: -7%;
+position: absolute;
+right: 50%;
+
+}
+@media (max-width: 400px) {
+
+.src_svg{
+margin-bottom: -30%;
+}
+.rounded-container {
+width: 80%;
+padding: 5%;
+border-radius: 20px;
+margin-top: 0;
+}
+
+.form-control {
+font-size: 14px;
+}
+
+.logout_btn {
+padding: 10px;
+font-size: 14px;
+}
+}
+body {
+font-size: 18px;
+font-family: inherit;
+background-color: #242424;
+background-size: cover;
+background-position: center;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0;
+}
+
+
+.form-control {
+font-size: 16px;
+}
+
+.logout_btn {
+padding: 10px 20px;
+border: 2px solid #e1e2e3;
+border-radius: 10px;
+box-shadow: 0 5px 15px 0 rgba(11, 99, 246, 1);
+transition: 0.5s;
+}
+
+.logout_btn:hover {
+transform: translate(0, -3px);
+box-shadow: 0 20px 40px 0 rgba(11, 99, 246, 1);
+}
+
+.element {
+position: relative;
+width: 100%;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.element::before {
+content: "";
+background-image: url(2560px-Gazprom-Logo-rus.svg.png);
+background-repeat: no-repeat;
+background-size: contain;
+display: block;
+margin: 0 auto; 
+width: 60%; 
+height: 0;
+padding-bottom: 20%; 
+filter: saturate(0) grayscale(100%);
+position: relative;
+}
+
+
+
+@media (min-width: 1080px) {
+.element::before {
+z-index: -15;
+transform: translate(0, 0) scale(12);
+position: absolute;
+top: 149px;
+left: 619px;
+width: 60%;
+cursor: move;
+background-image: url(\\examples\\4.png);
+}
+}
+@media (max-width: 1080px) {
+.element::before {
+width: 90%;
+padding-bottom: 35%;
+}
+}
+
+@media (max-width: 768px) {
+.svg{width: 50%;}
+.rounded-container {
+width: 80%;
+padding: 5%;
+border-radius: 20px;
+margin-top: 0;
+}
+
+.form-control {
+font-size: 14px;
+}
+
+.logout_btn {
+padding: 10px;
+font-size: 14px;
+}
+}
+
+@media (max-width: 1312px) {
+.rounded-container {
+  
+width: 90%;
+padding: 5%;
+border-radius: 20px;
+}
+
+.form-control {
+font-size: 12px;
+}
+
+.logout_btn {
+padding: 8px;
+font-size: 12px;
+}
+}
+
